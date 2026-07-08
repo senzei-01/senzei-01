@@ -1,5 +1,5 @@
 <p align="center">
-<img width="400"  alt="halftone_cohle" src="https://github.com/user-attachments/assets/5890b1df-bd49-4374-a9b6-51c5c7a83f81" />
+<img width="1920" height="617" alt="image" src="https://github.com/user-attachments/assets/ff839563-f085-4d0c-b922-03f429ec4db5" />
 </p>
 
 <div align="center">
