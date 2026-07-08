@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="2832" height="2052" alt="Cat at Play by the Dutch-Belgian artist Henriëtte Ronner-Knip" src="https://github.com/user-attachments/assets/8e29939c-3062-4f11-8b22-bc66c9dc9283" />
+
+## Hi there
 
 <!--
 **senzei-01/senzei-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
