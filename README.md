@@ -4,10 +4,21 @@
 
 <div align="center">
   
-# Hi, I'm Jatin / ଜତିନ
-###### still in études, nothing here is the final piece.
+# Hi, I'm Jatin / ଜତିନ୍
+##  Currently building with python and learning C. 
+### I'd love to learn systems programming and OS (and much more)
+### Currently using 
+#### Dual boot w Arch Linux and W11, NeoVim w LazyVim plugins, Alacritty
+
+
+ 
+
+##### ***Still in études, nothing here is the final piece.***
+###### personal site under construction
+
 
 </div>
+
 
 
 
