@@ -5,8 +5,8 @@
 <div align="center">
   
 # Hi, I'm Jatin / ଜତିନ୍
-##  Currently building with python and learning C. 
-### I'd love to learn systems programming and OS (and much more)
+##  Currently building and learning with C. 
+### I'd love to learn systems programming and OS (and more)
 ### Currently using 
 #### Dual boot w Arch Linux and W11, NeoVim w LazyVim plugins, Alacritty
 
