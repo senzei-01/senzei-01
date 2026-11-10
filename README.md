@@ -6,7 +6,7 @@
   
 # Hi, I'm Jatin / ଜତିନ୍
 ##  Currently building and learning with C. 
-### I'd love to learn systems programming and OS (and more)
+### I'm learning systems programming and OSDev
 ### Currently using 
 #### Dual boot w Arch Linux and W11, NeoVim w LazyVim plugins, Alacritty
 
