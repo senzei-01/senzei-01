@@ -4,11 +4,9 @@
 
 <div align="center">
   
-# Hi, I'm Jatin / ଜତିନ୍
-##  Currently building and learning with C. 
-### I'm learning systems programming and OSDev
-### Currently using 
-#### Dual boot w Arch Linux and W11, NeoVim w LazyVim plugins, Alacritty
+# Hi, I'm Jatin / ଜତିନ୍ 
+### systems programming and OSDev
+
 
 
  
